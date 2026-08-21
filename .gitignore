@@ -1,0 +1,15 @@
+
+
+#Use this for notes
+.DS_Store
+instance/
+Notes/
+
+#ignore whole
+__pycache__/
+
+#Pycharm notes on project
+.idea/
+
+#exclude local environment
+.venv/
